@@ -6,5 +6,6 @@ Steps:
 3. Provide a legend to show the scale of colors for depth
 4. Create a tooltip for each marker that will provide magnitude, location, and depth information. 
 Tools used: Javascript, D3, Leaflet 
+
 Preview: 
 ![alt text](https://github.com/acedryden/leaflet-challenge/blob/main/Starter_Code/Final%20Preview.png)
